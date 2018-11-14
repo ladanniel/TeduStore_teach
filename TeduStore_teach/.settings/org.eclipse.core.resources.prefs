@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/cn/tedu/store/controller/AddressController.java=UTF-8
+encoding//src/main/java/cn/tedu/store/controller/BaseController.java=UTF-8
+encoding//src/main/java/cn/tedu/store/controller/UserController.java=UTF-8
+encoding//src/main/java/cn/tedu/store/interceptor/LoginInterceptor.java=UTF-8
+encoding//src/main/java/cn/tedu/store/mapper/AddressMapper.java=UTF-8
+encoding//src/main/java/cn/tedu/store/mapper/CartMapper.java=UTF-8
+encoding//src/main/java/cn/tedu/store/mapper/DictMapper.java=UTF-8
+encoding//src/main/webapp/css/404.css=UTF-8
+encoding//src/test/java/test/TestAddress.java=UTF-8
+encoding//src/test/java/test/TestDict.java=UTF-8
